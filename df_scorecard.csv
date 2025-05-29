@@ -1,0 +1,40 @@
+,index,Variable,Coefficient,P-Value,Original variable name,Score - Calculation,Score - Preliminary,Difference,Score - Final
+0,0,const,1.8787,0.0,const,643.64477844476,644.0,0.35522155523995025,644.0
+1,1,Account_status:0 <= ... < 200 DM,0.6859,0.0002,Account_status,34.57315676121522,35.0,0.4268432387847767,35.0
+2,2,Account_status:0 DM,1.2355,0.0,Account_status,62.27603904137836,62.0,-0.2760390413783611,62.0
+3,3,Account_status:>= 200 DM or salary assignment,-0.079,0.8231,Account_status,-3.982037300096229,-4.0,-0.017962699903771195,-4.0
+4,4,Duration_Months,0.6381,0.0,Duration_Months,32.16377216697979,32.0,-0.1637721669797898,32.0
+5,5,History:current credits paid,0.3185,0.0607,History,16.054163038995554,16.0,-0.0541630389955543,16.0
+6,6,History:delayed previously,-0.0239,0.938,History,-1.2046922971177199,-1.0,0.20469229711771986,-1.0
+7,7,History:no credits_all paid_all paid at this bank,0.735,0.0146,History,37.0480685515282,37.0,-0.04806855152820333,37.0
+8,8,Savings_Account:100 <= ... < 500 DM,-0.4783,0.1089,Savings_Account,-24.108967602987672,-24.0,0.10896760298767205,-24.0
+9,9,Savings_Account:< 100 DM,-0.0915,0.6593,Savings_Account,-4.612106493149429,-5.0,-0.38789350685057133,-5.0
+10,10,Savings_Account:unknown / no savings,-1.4279,0.0,Savings_Account,-71.97406406085322,-72.0,-0.025935939146776832,-72.0
+11,11,Purpose:furniture/equipment,-2.1001,0.0,Purpose,-105.85666498648213,-106.0,-0.14333501351786992,-106.0
+12,12,Purpose:new car,-1.7906,0.0,Purpose,-90.25615176648489,-90.0,0.2561517664848907,-90.0
+13,13,Purpose:radio/TV,-2.5942,0.0,Purpose,-130.76204004948906,-131.0,-0.2379599505109411,-131.0
+14,14,Purpose:repairs_business_appliances,-2.3336,0.0,Purpose,-117.62635751271594,-118.0,-0.3736424872840587,-118.0
+15,15,Purpose:used car_retraining,-3.1712,0.0,Purpose,-159.8460340008248,-160.0,-0.15396599917519893,-160.0
+16,16,Employment_Since:1 <= ... < 4 years,-0.5408,0.0069,Employment_Since,-27.259313568253678,-27.0,0.2593135682536776,-27.0
+17,17,Employment_Since:< 1 year,0.1431,0.5417,Employment_Since,7.213032122073042,7.0,-0.21303212207304156,7.0
+18,18,Employment_Since:>= 7 years,-0.5902,0.0079,Employment_Since,-29.749347019199924,-30.0,-0.25065298080007636,-30.0
+19,19,Employment_Since:unemployed,-0.3391,0.3784,Employment_Since,-17.09251706914723,-17.0,0.09251706914723101,-17.0
+20,20,Other_Installment:bank,0.3306,0.1374,Other_Installment,16.664070017871055,17.0,0.3359299821289454,17.0
+21,21,Other_Installment:stores,-0.3513,0.3731,Other_Installment,-17.707464601567153,-18.0,-0.2925353984328467,-18.0
+22,22,Housing:for free,-1.0708,0.0129,Housing,-53.97424735370938,-54.0,-0.025752646290619907,-54.0
+23,23,Housing:rent,0.0738,0.7232,Housing,3.7199285157860973,4.0,0.2800714842139027,4.0
+24,24,Property:building society savings / life insurance,-0.5105,0.0157,Property,-25.732025844292718,-26.0,-0.26797415570728234,-26.0
+25,25,Property:car or other (not in savings),-0.2385,0.1964,Property,-12.021720203455068,-12.0,0.021720203455068088,-12.0
+26,26,Property:unknown / no property,0.8291,0.0259,Property,41.7912294368327,42.0,0.20877056316729892,42.0
+27,27,Personal_Status_Sex:female div/sep/married,0.0028,0.9874,Personal_Status_Sex,0.14113549924391697,0.0,-0.14113549924391697,0.0
+28,28,Personal_Status_Sex:male divorced/separated,0.1087,0.7514,Personal_Status_Sex,5.479081702790634,5.0,-0.47908170279063356,5.0
+29,29,Personal_Status_Sex:male married/widowed,-0.2309,0.3958,Personal_Status_Sex,-11.638638134078723,-12.0,-0.3613618659212765,-11.0
+30,0,Account_status:no checking account,0.0,,Account_status,0.0,0.0,0.0,0.0
+31,1,Savings_Account:>=1000 DM_500<...<1000 DM,0.0,,Savings_Account,0.0,0.0,0.0,0.0
+32,2,Employment_Since:4 <= ... < 7 years,0.0,,Employment_Since,0.0,0.0,0.0,0.0
+33,3,Purpose:education_others,0.0,,Purpose,0.0,0.0,0.0,0.0
+34,4,History:critical / other banks,0.0,,History,0.0,0.0,0.0,0.0
+35,5,Other_Installment:none,0.0,,Other_Installment,0.0,0.0,0.0,0.0
+36,6,Property:real estate,0.0,,Property,0.0,0.0,0.0,0.0
+37,7,Housing:own,0.0,,Housing,0.0,0.0,0.0,0.0
+38,8,Personal_Status_Sex:male single,0.0,,Personal_Status_Sex,0.0,0.0,0.0,0.0
